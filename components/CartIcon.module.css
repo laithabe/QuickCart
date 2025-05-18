@@ -1,0 +1,16 @@
+/* CartIcon.module.css */
+.cartContainer {
+    position: relative;
+    display: inline-block;
+}
+.itemCountBadge {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    padding: 3px 6px;
+    border-radius: 50%;
+    font-weight: bold;
+}
